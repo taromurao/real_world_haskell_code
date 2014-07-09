@@ -1,3 +1,6 @@
 lexicallyScopedTypeVariables.hs
 output.txt
 scopedTypeSignature.hs
+*.o
+*.hi
+tempfile
