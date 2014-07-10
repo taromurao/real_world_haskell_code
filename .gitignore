@@ -4,3 +4,5 @@ scopedTypeSignature.hs
 *.o
 *.hi
 tempfile
+input.txt
+toupper-lazy4
